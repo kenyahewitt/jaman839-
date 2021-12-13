@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: Invitation to help bug
+labels: invalid
+assignees: kenyahewitt
 
 ---
 
@@ -12,9 +12,9 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+1. Go to '...'https://docs.github.com/repositories
+2. Click on ‘setting 
+3. Scroll down to '.security 
 4. See error
 
 **Expected behavior**
